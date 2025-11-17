@@ -1,4 +1,4 @@
-# Wenyue Li – Projects Portfolio
+# Wenyue Li - Portfolio
 
 This repository collects projects that Wenyue Li completed either independently or as a primary contributor.
 
