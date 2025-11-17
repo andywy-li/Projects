@@ -17,7 +17,7 @@ This repository collects projects that Wenyue Li completed either independently 
 - **Research Projects**  
   In addition, there are folders for research projects where Wenyue Li was a main member of the team.  
   These folders may contain:
-  - Project summaries and papers or drafts.
-  - Experimental code, simulations, and data processing scripts.
+  - Project summaries and Wenyue's contribution and main work. 
+  - Due to the cooyright and the in-process peer review, the detailed experimental code, simulation and data processing scripts won't be provided here.
 
 Overall, this repository provides a consolidated view of Wenyue Li’s technical work, teaching experience, and research involvement.
